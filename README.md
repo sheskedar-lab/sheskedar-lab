@@ -73,6 +73,4 @@ I am really intersted to learn more java and python and also data and designing.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sheskedar-lab&theme=dark&hide_border=true&short_numbers=true&exclude_days=Mon)](https://git.io/streak-stats)
 
-git add .
-git commit 
 
