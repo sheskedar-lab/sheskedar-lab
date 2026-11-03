@@ -1,16 +1,5 @@
-# Core program week 1 assignment
-HackYourFuture core program week 1 assignment
-
-## Submission Instructions
-### Task 1
-Complete the script `task-1/setup.sh` according to the assignment instructions.
-
-
-### Task 2
-Write your github username in the file `sheskedar-lab`.
+`sheskedar-lab`.
   
-Do not include the `@` symbol before your username.  
-Do not paste the URL of your github profile.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=aril&weight=700&size=28&pause=1000&color=F73AC7&background=2924FFED&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+page+)](https://git.io/typing-svg)
