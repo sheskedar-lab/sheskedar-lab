@@ -1,7 +1,3 @@
-`sheskedar-lab`.
-  
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=aril&weight=700&size=28&pause=1000&color=F73AC7&background=2924FFED&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+page+)](https://git.io/typing-svg)
 
 
