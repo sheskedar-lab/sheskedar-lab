@@ -9,6 +9,7 @@ Hi there my name is Eskedar i have information system background and self though
 I’m currently learning learnig new porgrams like visual studio ,Node, git github and tying to update my self with the new technology.
 What motivate me to learn new technology is my curiosity and passion to learn new thing, technology and skill. I love being creative overall
 I am really intersted to learn more java and python and also data and designing.
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 
 
