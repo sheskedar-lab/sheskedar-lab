@@ -11,7 +11,7 @@ What motivate me to learn new technology is my curiosity and passion to learn ne
 I am really intersted to learn more java and python and also data and designing.
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?sheskedar-lab=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sheskedar-lab)](https://github.com/stats-organization/github-stats-extended)
 
 
 
