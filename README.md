@@ -6,9 +6,9 @@
 
 
 Hi there my name is Eskedar i have information system background and self thought artist. I’m currently working as graphics designer. 
-I’m currently learning learnig new porgrams like visual studio ,Node, git github and tying to update my self with the new technology.
+I’m currently learning learnig porgrams like visual studio ,Node, git, github and tying to update my self with the new technology like AI.
 What motivate me to learn new technology is my curiosity and passion to learn new thing, technology and skill. I love being creative overall
-I am really intersted to learn more java and python and also data and designing.
+I am really interested to learn more data analysis, SQL, java and python and also data and designing.
 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sheskedar-lab)](https://github.com/stats-organization/github-stats-extended)
